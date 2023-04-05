@@ -1,1 +1,1 @@
-This is a file to register ID.
+These are lines to register ID.
